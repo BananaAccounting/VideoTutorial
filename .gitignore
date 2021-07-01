@@ -1,0 +1,8 @@
+.DS_Store
+*.bak
+*.pro.user
+build-*
+**/_temp/
+**/out/
+**/build/
+**/cache/
