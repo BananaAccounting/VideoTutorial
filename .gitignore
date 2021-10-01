@@ -2,6 +2,7 @@
 *.bak
 *.pro.user
 build-*
+subscription.key
 **/_temp/
 **/out/
 **/build/
