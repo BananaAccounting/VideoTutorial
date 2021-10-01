@@ -1,0 +1,51 @@
+Workflow Educational Video Application
+======================================
+
+1. Plan and write your texts
+Plan the objectives and content of the video
+Edit the video texts with a program like Word, Notepad or similar
+This will make it easier for you to add and edit your texts
+Define the chapter titles and the parts of speech
+
+2. Set project files
+Create a project folder
+Copy the Empty educational video template into the folder and rename it
+
+3. Enter Content
+Open the renamed empty educational video File
+Add the language you want to use from the Actions menu, Add Language Column
+Copy the text you wrote in and paste it in the appropriate language column
+In the Chapter column enter the chapter number
+You can apply a color to the chapter titles, it will help you to better divide the different parts of the video.
+
+4. Build the first version of the video
+Build the video from the Actions menu, Build Video
+Choose the appropriate language
+The program assembles the video completely automatically
+The texts you entered will be converted into audio and subtitles as well
+You can watch the result immediately
+Listen to the high quality audio and get an idea of the overall length of the video
+
+5. Create the image capture
+In Banana Accounting Plus, create a new File from which to take the images
+The file must contain all the data and information you intend to display
+Use the Screenshots functionality with the CTRL+3 command
+Use the Screenshots functionality with the control three command
+Set the Banana Accounting Plus window size to 1920x1080, or other sizes with the 16:9 format
+Set the Banana Accounting Plus window size to 1920x1080, or other sizes with the 16:9 format
+Save the image in the project folder
+Repeat this step to capture all the images you need for the video
+
+6. Complete your project with images
+In the appropriate rows of the column Clip File, enter the file name of the images you have saved
+Use the Effects column to add effects to the images, without using any external image editor
+Create the video again and see the result
+
+7. Improve the video
+Add translations for different languages
+Change and add new images
+and edit them with effects
+Create and use your own styles for text formatting
+Define which parts of the video you want to be without speech
+Build again the video each time and check the result
+Improve the texts, images and effects until you are finished
