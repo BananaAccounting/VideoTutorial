@@ -1,6 +1,7 @@
 .DS_Store
 *.bak
 *.pro.user
+*_build_**
 build-*
 subscription.key
 **/_temp/
