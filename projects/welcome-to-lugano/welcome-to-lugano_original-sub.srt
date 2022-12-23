@@ -1,0 +1,27 @@
+﻿1
+00:00:01,200 --> 00:00:02,960
+Benvenuti!
+
+2
+00:00:03,760 --> 00:00:05,880
+Questa è Lugano
+
+3
+00:00:05,880 --> 00:00:08,520
+la città in cui Banana.ch ha sede
+
+4
+00:00:10,040 --> 00:00:15,560
+Lugano è una città di circa 64'000 abitanti
+
+5
+00:00:15,560 --> 00:00:19,440
+che si trova nel sud della Svizzera
+
+6
+00:00:19,440 --> 00:00:22,640
+più precisamente nel Canton Ticino
+
+7
+00:00:22,640 --> 00:00:25,400
+una regione di lingua italiana
