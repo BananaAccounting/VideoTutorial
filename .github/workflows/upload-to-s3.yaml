@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v5
         with:
           fetch-depth: 0  
-      - name: Sync files to S3 bucket Tinext
+      - name: Sync files to S3 bucket
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
